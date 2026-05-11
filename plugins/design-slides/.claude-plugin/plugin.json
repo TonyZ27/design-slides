@@ -1,0 +1,13 @@
+{
+  "name": "design-slides",
+  "version": "1.0.0",
+  "description": "Create interview-ready HTML decks for design case studies from Obsidian notes, screenshots, and user-provided frameworks.",
+  "author": {
+    "name": "TonyZ27",
+    "url": "https://github.com/TonyZ27"
+  },
+  "homepage": "https://github.com/TonyZ27/design-slides",
+  "repository": "https://github.com/TonyZ27/design-slides",
+  "license": "MIT",
+  "keywords": ["presentations", "design", "case-study", "interview", "portfolio", "html"]
+}

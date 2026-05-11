@@ -1,18 +1,18 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "frontend-slides",
-  "description": "Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoint files.",
+  "name": "design-slides",
+  "description": "Create interview-ready HTML decks for design case studies from Obsidian notes, screenshots, and user-provided deck frameworks.",
   "owner": {
-    "name": "zarazhangrui",
-    "url": "https://github.com/zarazhangrui"
+    "name": "TonyZ27",
+    "url": "https://github.com/TonyZ27"
   },
   "plugins": [
     {
-      "name": "frontend-slides",
-      "description": "Zero-dependency HTML presentation generator with 12 curated visual themes, PPT conversion, and anti-AI-slop design philosophy.",
-      "source": "./plugins/frontend-slides",
+      "name": "design-slides",
+      "description": "Personal design interview deck skill for turning case-study notes and visuals into polished HTML presentations with optional Vercel deployment.",
+      "source": "./plugins/design-slides",
       "category": "productivity",
-      "tags": ["presentations", "slides", "html", "design", "powerpoint"]
+      "tags": ["presentations", "design", "case-study", "interview", "portfolio"]
     }
   ]
 }
